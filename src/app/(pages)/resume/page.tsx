@@ -5,14 +5,14 @@ const TIMELINES = [
     category: "Education",
     timeline: [
       {
-        title: "IOE, Purwanchal Campus",
-        date: "2022 - present",
-        text: "I am currently studying in this college. I am studying Computer Engineering. I am 1st year student. ",
+        title: "Manipal Institute of Technology Bengaluru ",
+        date: "2021 - present",
+        text: "I am currently studying in this college. I am studying Information Technology. I am 4th year student. ",
       },
       {
-        title: "Tulsi English Boarding School",
-        date: "20020 — 2022",
-        text: "I studied in this school for 2 years. I studied 11 and 12 in this school. I was a science student. I studied Physics, Chemistry, Mathematics and Biology",
+        title: "Ssi Educational Institutions",
+        date: "2019 — 2021",
+        text: "I studied in this school for 2 years. I studied 11 and 12 in this school. I was a science student. I studied Physics, Chemistry, Mathematics.",
       },
     ],
   },
@@ -21,7 +21,7 @@ const TIMELINES = [
     timeline: [
       {
         title: "Self Learning",
-        date: "2022 — present",
+        date: "2021 — present",
         text: "I am learning web development and programming languages. I am learning HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Python, C, C++, Java, etc. I am also learning UI/UX design.",
       },
       {
