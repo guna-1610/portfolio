@@ -18,33 +18,21 @@ const Aside = () => {
   const CONTACTS_LIST = [
     {
       title: "Email",
-      link: "mailto:iamjrtilak@gmail.com",
+      link: "mailto:gunavardhanpotnuru71@gmail.com",
       icon: <CiMail />,
-      value: "iamjrtilak@gmail.com",
+      value: "gunavardhanpotnuru71@gmail.com",
     },
     {
       title: "LinkedIn",
-      link: "https://www.linkedin.com/in/jrtilak/",
+      link: "www.linkedin.com/in/gunavardhan-potnuru-8a6657286",
       icon: <PiLinkedinLogoLight />,
-      value: "Tilak Thapa",
+      value: "Gunavardhan Potnuru",
     },
     {
       title: "Github",
-      link: "https://www.github.com/jrtilak",
+      link: "https://github.com/guna-1610",
       icon: <PiGithubLogoLight />,
-      value: "jrTilak",
-    },
-  ];
-  const SOCIAK_LINKS = [
-    {
-      title: "Twitter",
-      link: "https://www.twitter.com/iamjrtilak",
-      icon: <FaXTwitter />,
-    },
-    {
-      title: "Instagram",
-      link: "https://www.instagram.com/iamjrtilak",
-      icon: <CiInstagram />,
+      value: "guna-1610",
     },
   ];
 
