@@ -10,7 +10,7 @@ const Contact = () => {
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe
-            src="https://www.google.com/maps/place/Manipal+Academy+of+Higher+Education,+Bengaluru/@13.1233297,77.5896128,17z/data=!3m1!4b1!4m6!3m5!1s0x3bae19d502aa02b3:0xb31f075ede4c71ab!8m2!3d13.1233297!4d77.5921877!16s%2Fg%2F11sqnl75nc?entry=ttu"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.618623751446!2d77.5921877!3d13.123329700000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae19d502aa02b3%3A0xb31f075ede4c71ab!2sManipal%20Academy%20of%20Higher%20Education%2C%20Bengaluru!5e0!3m2!1sen!2sin!4v1722431459356!5m2!1sen!2sin" 
             width="400"
             height="300"
             loading="lazy"
