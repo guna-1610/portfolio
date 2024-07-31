@@ -1,7 +1,5 @@
 "use client";
 import { CiMail } from "react-icons/ci";
-import { FaXTwitter } from "react-icons/fa6";
-import { CiInstagram } from "react-icons/ci";
 import { FaChevronDown } from "react-icons/fa";
 import AvatarImg from "@/assets/my-avatar.png";
 
@@ -35,18 +33,7 @@ const Aside = () => {
       value: "guna-1610",
     },
   ];
-  const SOCIAK_LINKS = [
-    {
-      title: "Twitter",
-      link: "https://www.twitter.com/iamjrtilak",
-      icon: <FaXTwitter />,
-    },
-    {
-      title: "Instagram",
-      link: "https://www.instagram.com/iamjrtilak",
-      icon: <CiInstagram />,
-    },
-  ];
+  
 
   return (
     <aside className="sidebar" data-sidebar ref={sidebarRef}>
@@ -95,13 +82,6 @@ const Aside = () => {
         <div className="separator"></div>
 
         <ul className="social-list">
-          {SOCIAK_LINKS.map((social) => (
-            <li className="social-item" key={social.title}>
-              <a href={social.link} className="social-link">
-                {social.icon}
-              </a>
-            </li>
-          ))}
         </ul>
       </div>
     </aside>
