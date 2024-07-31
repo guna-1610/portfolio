@@ -44,7 +44,7 @@ const Aside = () => {
 
         <div className="info-content">
           <h1 className="name" title="Richard hanrick">
-            Tilak Thapa
+            Gunavardhan Potnuru
           </h1>
 
           <p className="title">Web Developer</p>
