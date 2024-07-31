@@ -35,7 +35,18 @@ const Aside = () => {
       value: "guna-1610",
     },
   ];
-  
+  const SOCIAK_LINKS = [
+    {
+      title: "Twitter",
+      link: "https://www.twitter.com/iamjrtilak",
+      icon: <FaXTwitter />,
+    },
+    {
+      title: "Instagram",
+      link: "https://www.instagram.com/iamjrtilak",
+      icon: <CiInstagram />,
+    },
+  ];
 
   return (
     <aside className="sidebar" data-sidebar ref={sidebarRef}>
